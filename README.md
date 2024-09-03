@@ -177,7 +177,7 @@ It is designed such a way that owner can view all the updates of the Parlour.The
 <td width="50%">
 <h3 align="center">Algorithm Visualizer</h3>
 <div align="center">
-<a href="https://github.com/guru9696" target="_blank"><img src="https://github.com/user-attachments/assets/40c99fd3-8392-43cf-b60a-4ff50b6102c0" width="400" height="250" alt="Curso intermedio Android"></a>
+<a href="https://github.com/guru9696" target="_blank"><img src="https://images.app.goo.gl/1z376heHzmFndmdf9" width="400" height="250" alt="Curso intermedio Android"></a>
 <p>
 
 
