@@ -39,7 +39,7 @@ Gaurav Jadhav
 
 - 🌱 I’m currently learning **AI and ML, Web developement**
 
-- 👨‍💻 All of my projects are available at [https://gauravjadhav.kesug.com/](https:#)
+- 👨‍💻 All of my projects are available at [https://gauravjadhav.kesug.com/](https://gauravjadhav.kesug.com/)
 
 - 💬 Ask me about **Python,PHP,DSA,HTML,CSS,Javascript,Bootstrap**
 
