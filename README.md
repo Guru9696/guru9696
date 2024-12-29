@@ -43,7 +43,7 @@ Gaurav Jadhav
 
 - 💬 Ask me about **Python,PHP,DSA,HTML,CSS,Javascript,Bootstrap**
 
-- 📫 How to reach me **gaurya9172@gmail.com**
+- 📫 How to reach me **gauravjadhav9172@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
