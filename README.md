@@ -205,9 +205,9 @@ choice too.
 <td width="50%">
 <h3 align="center">Bakery Management System</h3>
 <div align="center">
-<a href="https://github.com/guru9696" target="_blank"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-bakery-landing-page_23-2149434059.jpg?w=1060&t=st=1725053760~exp=1725054360~hmac=9de9217ab72f4048b08ba30c3faa4de5e8369cd7fc46cb82997a66db68948abb" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/Guru9696/Online-Bakery-System" target="_blank"><img src="https://img.freepik.com/free-vector/hand-drawn-flat-bakery-landing-page_23-2149434059.jpg?w=1060&t=st=1725053760~exp=1725054360~hmac=9de9217ab72f4048b08ba30c3faa4de5e8369cd7fc46cb82997a66db68948abb" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
-<a href="https://github.com/guru9696" target="_blank">
+<a href="https://github.com/Guru9696/Online-Bakery-System" target="_blank">
 <img src="https://img.shields.io/badge/GITHUB-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://github.com/guru9696" target="_blank">
