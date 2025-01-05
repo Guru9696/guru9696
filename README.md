@@ -20,7 +20,7 @@ Gaurav Jadhav
 </span>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
 
-<h3 align="center" style="text-shadow: 8px 8px 8px #26fc0a;">A passionate software Developer / AI Engineer from India</h3>
+<h3 align="center" style="text-shadow: 8px 8px 8px #26fc0a;">A passionate Software Developer / AI Engineer from India</h3>
 <br>
 
 
@@ -64,7 +64,7 @@ Gaurav Jadhav
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=plastic)
 ![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=plastic)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
+<!--![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;-->
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### ML/DL
