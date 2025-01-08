@@ -176,7 +176,9 @@ It is designed such a way that owner can view all the updates of the Parlour.The
 <td width="50%">
 <h3 align="center">Algorithm Visualizer</h3>
 <div align="center">
-<a href="https://github.com/guru9696" target="_blank"><img src="https://media-hosting.imagekit.io//435f780bd1f64f4e/Pi7_GIF_CMP (1).gif?Expires=1830970823&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eV2WrKpKc2pzZThK5mVq34vjPuG5LzlgNxTwrL9VhqSBN5kV0aefTLQHy-6RUQU4UdTibXwrNbzZIvlZ6I2VaMSTqEMCSFRQOos4NKsPQpWNixRtJWrW4EEQgkudLiTSqGbeAMOgoa8ZRlybJaFbsQh0k~1v6lB24~hi-lFf1svoNKrnHR651lD5V-uLC7YJ950QrE43B8JS63SidXi3Cc6GY5kuwJYIUcvbprsDOCNRny2ZoMcYwMTN~3D8GAIRD7ktGSYZs01Gjykz7z2KS6izNQOdlVaIVkPpYJEFl5UHrX2E1PaNlYnRuORUCu1kyYYM-9LwREa0i2Huwusq0w__" width="400" height="250" alt="Curso intermedio Android"></a>
+<a href="https://github.com/guru9696" target="_blank">
+            ![Pi7_GIF_CMP (1).gif](<https://media-hosting.imagekit.io//435f780bd1f64f4e/Pi7_GIF_CMP (1).gif?Expires=1830970823&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=eV2WrKpKc2pzZThK5mVq34vjPuG5LzlgNxTwrL9VhqSBN5kV0aefTLQHy-6RUQU4UdTibXwrNbzZIvlZ6I2VaMSTqEMCSFRQOos4NKsPQpWNixRtJWrW4EEQgkudLiTSqGbeAMOgoa8ZRlybJaFbsQh0k~1v6lB24~hi-lFf1svoNKrnHR651lD5V-uLC7YJ950QrE43B8JS63SidXi3Cc6GY5kuwJYIUcvbprsDOCNRny2ZoMcYwMTN~3D8GAIRD7ktGSYZs01Gjykz7z2KS6izNQOdlVaIVkPpYJEFl5UHrX2E1PaNlYnRuORUCu1kyYYM-9LwREa0i2Huwusq0w__>)
+</a>
 <p>
 
 
