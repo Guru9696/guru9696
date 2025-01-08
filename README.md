@@ -13,12 +13,38 @@
             letter-spacing: 2px;
             margin-bottom: 20px;
             background: yellowgreen;
-            position: relative;
-            animation: text 3s 1;"> Hi, I'm   <span style=" color: #e80e65;
-            ">
-Gaurav Jadhav
-</span>
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
+            position: relative;">
+  Hi, I'm   
+  <span style="color: #e80e65; 
+              display: inline-block;
+              overflow: hidden;
+              white-space: nowrap;
+              width: 0;
+              animation: typing 3s steps(16) infinite, blink 0.75s step-end infinite;">
+    Gaurav Jadhav
+  </span>
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38">
+</h1>
+
+<style>
+  @keyframes typing {
+    0% {
+      width: 0;
+    }
+    100% {
+      width: 100%;
+    }
+  }
+
+  @keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+    100% {
+      border-color: black;
+    }
+  }
+</style>
 
 <h3 align="center" style="text-shadow: 8px 8px 8px #26fc0a;">A passionate Software Developer / AI Engineer from India</h3>
 <br>
