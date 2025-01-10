@@ -177,7 +177,7 @@ It is designed such a way that owner can view all the updates of the Parlour.The
 <h3 align="center">Algorithm Visualizer</h3>
 <div align="center">
 <a href="https://github.com/guru9696" target="_blank">
-           <img src="https://i.ibb.co/jzd2S9P/Pi7-GIF-CMP-1.gif" width="400" alt="Curso básico android">
+           <img src="https://panthema.net/2013/sound-of-sorting/thumb.gif" width="400" alt="Curso básico android">
 </a>
 <p>
 
