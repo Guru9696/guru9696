@@ -20,7 +20,7 @@ Gaurav Jadhav
 </span>
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="38"></h1>
 
-<h3 align="center" style="text-shadow: 8px 8px 8px #26fc0a;">A passionate Software Developer / AI Engineer from India</h3>
+<h3 align="center" style="text-shadow: 8px 8px 8px #26fc0a;">A passionate Software Developer / AI Engineer from India.</h3>
 <br>
 
 
